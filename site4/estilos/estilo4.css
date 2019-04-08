@@ -1,0 +1,136 @@
+body{
+	background-color: #1a1a1a;
+}
+
+div#interface {
+	width: 60%;
+	margin-left: 430px;
+	margin-right: 430px;
+}
+
+div#cima {
+	position: absolute;
+	top: -40px;
+	background-color: #fece31;
+	height: 500px;
+}
+
+div#baixo {
+	position: absolute;
+	top: 460px;
+	background-color: #eaeaea;
+	height: 480px;
+	width: 937px;
+}
+
+img#google {
+	margin-right: 400px;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+
+figcaption#google2 {
+	text-align: center;
+}
+
+figcaption#google2 span{
+	color: white;
+	font-weight: lighter;
+	margin-top: 5px;
+	font-size: 40px;
+}
+
+i {
+	font-size: 12px;
+	color: #424242;
+}
+
+figure img {
+	padding: 25px 50px 25px 50px;
+}
+
+figure {
+	margin-top: 25px;
+	margin-left: 3px;
+	width: 280px;
+	height: 250px;
+}
+
+figure#azul {
+	position: absolute;
+	top: 0px;
+	left: 308px;
+}
+
+figure#verde {
+	position: absolute;
+	top: 0px;
+	left: 650px;
+}
+
+figure figcaption {
+	position: relative;
+	top: -25px;
+	height: 98%;
+	text-align: center;
+	background-color: white;
+}
+
+figure figcaption b {
+	font-size: 12px;
+	color: #424242;
+}
+
+figure#vermelho figcaption h2 {
+	font-weight: lighter;
+	color: #F7002A;
+	margin-top: 1px;
+}
+
+figure#azul figcaption h2 {
+	font-weight: lighter;
+	color: #0072E0;
+	margin-top: 1px;
+}
+
+figure#verde figcaption h2 {
+	font-weight: lighter;
+	color: #13942C;
+	margin-top: 1px;
+}
+
+figure figcaption p {
+	font-size: 12px;
+	color: #424242;
+	line-height: 135%;
+}
+
+figure#vermelho a {
+	font-weight: bold;
+	font-size: 12px;
+	color: #F7002A;
+}
+
+figure#azul a {
+	font-weight: bold;
+	font-size: 12px;
+	color: #0072E0;
+}
+
+figure#verde a {
+	font-weight: bold;
+	font-size: 12px;
+	color: #13942C;
+}
+
+figure#vermelho img {
+	background-color: #F7002A;
+}
+
+figure#azul img {
+	background-color: #0072E0;
+}
+
+figure#verde img {
+	background-color: #13942C;
+}
